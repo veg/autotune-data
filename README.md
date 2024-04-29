@@ -1,6 +1,6 @@
 # AUTO-TUNE Data Repository
 
-This repository contains datasets utilized in the AUTO-TUNE manuscript for inferring HIV transmission clusters based on genetic distances. AUTO-TUNE employs a heuristic scoring approach to adaptively select a genetic distance threshold, aimed at preventing the formation of excessively large clusters while maximizing the insight into smaller, more meaningful clusters.
+This repository contains datasets utilized in the AUTO-TUNE manuscript for inferring HIV transmission clusters based on genetic distances.
 
 ## Repository Structure
 
@@ -10,7 +10,7 @@ This repository contains datasets utilized in the AUTO-TUNE manuscript for infer
 - `hcv/`: Hepatitis C virus sequences used for comparative analyses.
 - `clustunr/`: Data related to the clustuneR comparison study.
 
-Each directory contains sequence data and results files from analyses conducted using the AUTO-TUNE methodology.
+Each directory contains sequence data and results files from analyses conducted using AUTO-TUNE.
 
 ## Citation
 
